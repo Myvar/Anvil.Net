@@ -1,0 +1,7 @@
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\bin\Debug\Anvil.Net.dll
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\bin\Debug\Anvil.Net.pdb
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\bin\Debug\fNbt.dll
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\bin\Debug\fNbt.pdb
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\obj\Debug\Anvil.Net.csprojResolveAssemblyReference.cache
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\obj\Debug\Anvil.Net.dll
+C:\Users\Myvar\Desktop\Anvil.Net\Anvil.Net\obj\Debug\Anvil.Net.pdb

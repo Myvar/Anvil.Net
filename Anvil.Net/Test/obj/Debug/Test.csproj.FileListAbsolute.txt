@@ -1,0 +1,13 @@
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\Test.exe.config
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\Test.exe
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\Test.pdb
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\Anvil.Net.dll
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\fNbt.dll
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\Anvil.Net.pdb
+C:\Users\Myvar\Desktop\Anvil.Net\Test\bin\Debug\fNbt.pdb
+C:\Users\Myvar\Desktop\Anvil.Net\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Myvar\Desktop\Anvil.Net\Test\obj\Debug\Test.exe
+C:\Users\Myvar\Desktop\Anvil.Net\Test\obj\Debug\Test.pdb
+C:\Users\Myvar\Documents\GitHub\Anvil.Net\Anvil.Net\Test\bin\Debug\Test.exe.config
+C:\Users\Myvar\Documents\GitHub\Anvil.Net\Anvil.Net\Test\obj\Debug\Test.exe
+C:\Users\Myvar\Documents\GitHub\Anvil.Net\Anvil.Net\Test\obj\Debug\Test.pdb
